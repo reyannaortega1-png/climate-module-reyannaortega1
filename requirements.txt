@@ -1,0 +1,7 @@
+pandas
+duckdb==1.3.2
+ibis-framework[duckdb]
+nbval
+plotnine
+pytest
+pyarrow
